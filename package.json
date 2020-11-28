@@ -1,0 +1,20 @@
+{
+  "name": "junkyard",
+  "version": "1.0.0",
+  "description": "A virtual DOM library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boom0027/junkyard.git"
+  },
+  "keywords": [
+    "virtual",
+    "dom"
+  ],
+  "author": "Tirthamouli Baidya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boom0027/junkyard/issues"
+  },
+  "homepage": "https://github.com/Boom0027/junkyard#readme"
+}
